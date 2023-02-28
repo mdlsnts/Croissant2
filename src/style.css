@@ -1,0 +1,40 @@
+body {
+  background-color: #ffe6f7;
+  font-family: "Nunito", sans-serif;
+  margin: 30px;
+}
+a {
+  text-decoration: none;
+  color: #674188;
+  display: inline;
+  margin: 0 auto;
+}
+a:hover {
+  text-decoration: underline;
+  color: #5b8fb9;
+}
+
+h1 {
+  font-family: "Mynerve", cursive;
+  text-align: center;
+  font-size: 45px;
+  margin: 20px;
+}
+p {
+  text-align: justify;
+  font-size: 16px;
+}
+
+.logo {
+  display: block;
+  margin: 40px auto;
+  width: 150px;
+}
+.croissant {
+  margin: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
