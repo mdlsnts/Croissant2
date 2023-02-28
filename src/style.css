@@ -32,6 +32,7 @@ p {
 }
 .croissant {
   margin: 20px;
+  max-width: 80%;
 }
 
 footer {
